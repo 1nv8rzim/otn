@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/endpoint"
 )
 
 // Endpoint is the model entity for the Endpoint schema.

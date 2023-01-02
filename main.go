@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/1nv8rzim/otu-paste/api"
-	"github.com/1nv8rzim/otu-paste/database"
+	"github.com/1nv8rzim/otn/api"
+	"github.com/1nv8rzim/otn/database"
 )
 
 func main() {

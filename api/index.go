@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/1nv8rzim/otu-paste/database"
-	"github.com/1nv8rzim/otu-paste/helpers"
+	"github.com/1nv8rzim/otn/database"
+	"github.com/1nv8rzim/otn/helpers"
 	"github.com/gin-gonic/gin"
 )
 

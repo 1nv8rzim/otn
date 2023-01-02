@@ -10,7 +10,7 @@ import (
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/endpoint"
 )
 
 // ent aliases to avoid import conflicts in user's code.

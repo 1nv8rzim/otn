@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/1nv8rzim/otu-paste/ent"
+	"github.com/1nv8rzim/otn/ent"
 )
 
 // The EndpointFunc type is an adapter to allow the use of ordinary

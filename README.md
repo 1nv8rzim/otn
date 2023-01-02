@@ -1,1 +1,1 @@
-# otu-paste
+# otn

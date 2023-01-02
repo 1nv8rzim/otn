@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
-	"github.com/1nv8rzim/otu-paste/ent/predicate"
+	"github.com/1nv8rzim/otn/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/predicate"
 
 	"entgo.io/ent"
 )

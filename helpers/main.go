@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/1nv8rzim/otu-paste/config"
+	"github.com/1nv8rzim/otn/config"
 )
 
 func init() {

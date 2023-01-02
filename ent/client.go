@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/1nv8rzim/otu-paste/ent/migrate"
+	"github.com/1nv8rzim/otn/ent/migrate"
 
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/endpoint"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

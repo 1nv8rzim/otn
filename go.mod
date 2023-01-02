@@ -1,4 +1,4 @@
-module github.com/1nv8rzim/otu-paste
+module github.com/1nv8rzim/otn
 
 go 1.19
 

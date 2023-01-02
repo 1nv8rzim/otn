@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
-	"github.com/1nv8rzim/otu-paste/ent/predicate"
+	"github.com/1nv8rzim/otn/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/predicate"
 )
 
 // EndpointDelete is the builder for deleting a Endpoint entity.

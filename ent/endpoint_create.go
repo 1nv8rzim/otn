@@ -10,7 +10,7 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/endpoint"
 )
 
 // EndpointCreate is the builder for creating a Endpoint entity.

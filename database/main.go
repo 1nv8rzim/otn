@@ -5,10 +5,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/1nv8rzim/otu-paste/config"
-	"github.com/1nv8rzim/otu-paste/ent"
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
-	"github.com/1nv8rzim/otu-paste/helpers"
+	"github.com/1nv8rzim/otn/config"
+	"github.com/1nv8rzim/otn/ent"
+	"github.com/1nv8rzim/otn/ent/endpoint"
+	"github.com/1nv8rzim/otn/helpers"
 
 	_ "github.com/mattn/go-sqlite3"
 )

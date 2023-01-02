@@ -5,12 +5,12 @@ package enttest
 import (
 	"context"
 
-	"github.com/1nv8rzim/otu-paste/ent"
+	"github.com/1nv8rzim/otn/ent"
 	// required by schema hooks.
-	_ "github.com/1nv8rzim/otu-paste/ent/runtime"
+	_ "github.com/1nv8rzim/otn/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
-	"github.com/1nv8rzim/otu-paste/ent/migrate"
+	"github.com/1nv8rzim/otn/ent/migrate"
 )
 
 type (

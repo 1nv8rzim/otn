@@ -5,8 +5,8 @@ package ent
 import (
 	"time"
 
-	"github.com/1nv8rzim/otu-paste/ent/endpoint"
-	"github.com/1nv8rzim/otu-paste/ent/schema"
+	"github.com/1nv8rzim/otn/ent/endpoint"
+	"github.com/1nv8rzim/otn/ent/schema"
 )
 
 // The init function reads all schema descriptors with runtime code
