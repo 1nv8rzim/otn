@@ -22,5 +22,5 @@ func routes() {
 }
 
 func Run() {
-	Router.Run()
+	Router.Run(":80")
 }
