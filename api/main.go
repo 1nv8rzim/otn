@@ -16,7 +16,8 @@ func init() {
 }
 
 func routes() {
-	Router.POST("/", index)
+	Router.POST("/", index_post)
+	Router.GET("/", index_get)
 	Router.GET("/:id", paste)
 
 }

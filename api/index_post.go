@@ -6,7 +6,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func index(ctx *gin.Context) {
+func index_post(ctx *gin.Context) {
 	content := ctx.PostForm("content")
 
 	if content == "" {

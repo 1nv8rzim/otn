@@ -1,0 +1,8 @@
+version: "3.0"
+services:
+  otn:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      URL: "http://localhost"
