@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: 1nv8rZim/otn:latest
+          tags: 1nv8rzim/otn:latest
